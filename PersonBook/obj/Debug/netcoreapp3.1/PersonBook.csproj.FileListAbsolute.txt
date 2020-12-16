@@ -1,0 +1,13 @@
+C:\Users\sumuf\source\repos\PersonBook\PersonBook\bin\Debug\netcoreapp3.1\PersonBook.exe
+C:\Users\sumuf\source\repos\PersonBook\PersonBook\bin\Debug\netcoreapp3.1\PersonBook.deps.json
+C:\Users\sumuf\source\repos\PersonBook\PersonBook\bin\Debug\netcoreapp3.1\PersonBook.runtimeconfig.json
+C:\Users\sumuf\source\repos\PersonBook\PersonBook\bin\Debug\netcoreapp3.1\PersonBook.runtimeconfig.dev.json
+C:\Users\sumuf\source\repos\PersonBook\PersonBook\bin\Debug\netcoreapp3.1\PersonBook.dll
+C:\Users\sumuf\source\repos\PersonBook\PersonBook\bin\Debug\netcoreapp3.1\PersonBook.pdb
+C:\Users\sumuf\source\repos\PersonBook\PersonBook\obj\Debug\netcoreapp3.1\PersonBook.csprojAssemblyReference.cache
+C:\Users\sumuf\source\repos\PersonBook\PersonBook\obj\Debug\netcoreapp3.1\PersonBook.AssemblyInfoInputs.cache
+C:\Users\sumuf\source\repos\PersonBook\PersonBook\obj\Debug\netcoreapp3.1\PersonBook.AssemblyInfo.cs
+C:\Users\sumuf\source\repos\PersonBook\PersonBook\obj\Debug\netcoreapp3.1\PersonBook.csproj.CoreCompileInputs.cache
+C:\Users\sumuf\source\repos\PersonBook\PersonBook\obj\Debug\netcoreapp3.1\PersonBook.dll
+C:\Users\sumuf\source\repos\PersonBook\PersonBook\obj\Debug\netcoreapp3.1\PersonBook.pdb
+C:\Users\sumuf\source\repos\PersonBook\PersonBook\obj\Debug\netcoreapp3.1\PersonBook.genruntimeconfig.cache
